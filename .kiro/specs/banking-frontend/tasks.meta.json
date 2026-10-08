@@ -1,0 +1,246 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold Vite + React + Tailwind + Router project": [
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791275691220
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791275707196
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791276937136
+      }
+    ],
+    "2. Implement core libraries": [
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791276946447
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277146516
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277147120
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277387337
+      }
+    ],
+    "3. Implement AuthContext and toast system": [
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277396722
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277746034
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277752874
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277946278
+      }
+    ],
+    "4. Implement route guards and App shell": [
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791277955926
+      },
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791278189239
+      }
+    ],
+    "5. Implement layouts": [
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791278198017
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791279679857
+      }
+    ],
+    "6. Implement shared UI components": [
+      {
+        "executionId": "2545a213-7319-42da-a757-a9eb27411d34",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791278208169
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791279680143
+      }
+    ],
+    "7. Implement auth pages (Login + Register)": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791279697636
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280118049
+      }
+    ],
+    "8. Implement customer dashboard and account pages": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791279697965
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280118643
+      }
+    ],
+    "11. Implement profile page": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791279698151
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280119324
+      }
+    ],
+    "9. Implement money operation pages": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280126553
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280479554
+      }
+    ],
+    "10. Implement transaction history page": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280127692
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280480339
+      }
+    ],
+    "12. Implement admin login page": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280490328
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280908191
+      }
+    ],
+    "13. Implement admin dashboard": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280490817
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280909620
+      }
+    ],
+    "14. Implement admin tables (customers, accounts, transactions)": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280492244
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280910167
+      }
+    ],
+    "15. Write frontend tests": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280921207
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791281465521
+      }
+    ],
+    "16. End-to-end verification": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791280922303
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791281466475
+      }
+    ],
+    "17. Security check and deployment readiness": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791281478115
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791283070810
+      }
+    ],
+    "18. Write README and PROGRESS.md": [
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791281478470
+      },
+      {
+        "executionId": "f8aee27e-4ca9-4de6-bf09-1e42605b1215",
+        "chatSessionId": "sess_894a8ee7-c086-4842-bfd6-2a5805d1f829",
+        "timestamp": 1791283071720
+      }
+    ]
+  }
+}
