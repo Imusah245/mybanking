@@ -1,0 +1,37 @@
+﻿# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment / secrets
+.env
+**/.env
+.env.local
+**/.env.local
+*.local
+
+# Build output
+dist/
+**/dist/
+build/
+coverage/
+**/coverage/
+
+# Logs & scratch files
+*.log
+build-out*.log
+build*.log
+*-out.txt
+*-tail.txt
+dev-server.log
+FB_RESULT.txt
+vitest-out.log
+port-check.txt
+mongo*.txt
+pc.txt
+git-state.txt
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
